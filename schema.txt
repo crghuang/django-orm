@@ -1,0 +1,19 @@
+
+Brands
+id                integer
+created_at        datetime
+updated_at        datetime
+consumer_direct   boolean
+founded           datetime
+offices           integer
+name              string
+
+
+Bikes
+id                integer
+created_at        datetime
+updated_at        datetime
+full_suspension   boolean
+released          datetime
+wheelbase         integer
+name              string
